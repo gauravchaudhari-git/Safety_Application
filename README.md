@@ -1,3 +1,3 @@
 # myfirstproject
 
-A new Flutter project.
+A new Flutter project based Safety Management Application
