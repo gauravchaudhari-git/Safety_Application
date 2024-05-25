@@ -1,0 +1,55 @@
+name: myfirstproject
+description: "A new Flutter project based on women safety application its a college based final year project"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # plugins 
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.3
+  carousel_slider: ^4.2.1
+  webview_flutter: ^3.0.4
+  flutter_phone_direct_caller: ^2.1.1
+  url_launcher: ^6.1.9
+  fluttertoast: ^8.2.1
+  firebase_core: ^2.28.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.16.0
+  shared_preferences: ^2.2.2
+  permission_handler: ^11.3.1
+  contacts_service: ^0.6.3
+  sqflite: ^2.3.3
+  background_app_bar: ^2.1.0
+  background_sms: ^0.0.4
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+  image_picker: ^1.1.1
+  uuid: ^4.4.0
+  firebase_storage: ^11.7.4
+  cached_build_runner: ^0.0.7
+  cached_network_image: ^3.3.1
+  shake: ^2.2.0
+ 
+
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+# icons 
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+# Developer : Gaurav Chaudhari
